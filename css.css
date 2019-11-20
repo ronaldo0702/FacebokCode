@@ -1,0 +1,68 @@
+.row1
+{
+    background-color: black;
+    height: 90px;
+}
+.row2 
+{
+    background-color: rgb(227, 229, 241);
+    height: 900px;
+}
+
+.uno
+{
+background-color: rgb(61, 91, 153);
+height: 90px;
+}
+.dos
+{
+    background-color: rgb(61, 91, 153);
+    height: 90px;
+}
+
+.lugarsin
+{
+    width: 200px;
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+.mail
+{
+    color: white;
+}
+.one
+{
+    background-color: rgb(227, 229, 241);
+    height: 900px;
+    margin-left: 2px;
+}
+
+.two
+{
+    
+    height: 900px;
+}
+
+form
+{
+    margin: 0 auto;
+    width: 90%;
+}
+
+/*form li
+{
+ font-size:13px;
+ margin-left:15px;
+}
+li select
+{
+ padding:4px;
+ float:left;
+}
+*/
+
+td
+{
+    padding: 5px;
+}
